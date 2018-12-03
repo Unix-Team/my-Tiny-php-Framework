@@ -1,0 +1,59 @@
+{
+  "const": {
+    "baseUrl": "http://ehcan.ir/"
+  },
+  "header": {
+    "preTitle": "وب‌سایت شخصی ",
+    "postTitle": "",
+    "title": "احسان سیدی",
+    "menuItems": [
+      {
+        "title": "صفحه اصلی",
+        "url": "http://ehcan.ir/"
+      },
+      {
+        "title": "رزومه",
+        "url": "resume"
+      }
+    ]
+  },
+  "socialList": [
+    {
+      "name": "Email",
+      "icon": "<i class=\"icon-mail-3\"></i>",
+      "content": "ehcan@icloud.com",
+      "link": "mailto:ehcan@icloud.com"
+    },
+    {
+      "name": "Telegram",
+      "icon": "<i class=\"fab fa-telegram\"></i>",
+      "content": "ehcaning",
+      "link": "https://t.me/Ehcaning"
+    },
+    {
+      "name": "Instagram",
+      "icon": "<i class=\"icon-instagramm\"></i>",
+      "content": "ehcaning",
+      "link": "https://www.instagram.com/ehcaning/"
+    },
+    {
+      "name": "Twitter",
+      "icon": "<i class=\"icon-twitter-1\"></i>",
+      "content": "ehcaning",
+      "link": "https://twitter.com/ehcaning"
+    },
+    {
+      "name": "cafebazaar",
+      "icon": "<i class=\"icon-basket\"></i>",
+      "content": "ehsan-seyedi",
+      "link": "https://cafebazaar.ir/developer/ehsan-seyedi/?l=fa"
+    }
+  ],
+  "strings": {
+    "all": "همه",
+    "copyRight": "تمامی حقوق متعلق به احسان سیدی می‌باشد.",
+    "portfolio": "نمونه کارها",
+    "goHomePage":"صفحه اصلی",
+    "notFound": "متأسفانه صفحه مورد نظر وجود ندارد یا منتقل شده‌است."
+  }
+}

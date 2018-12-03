@@ -1,0 +1,273 @@
+{
+  "personalInfo": {
+    "Name": "Ehsan Seyedi",
+    "firstName": "Ehsan",
+    "lastName": "Seyedi",
+    "location": "Mashhad, Iran",
+    "age": "23"
+  },
+  "accounts": {
+    "email": "ehcan@icloud.com",
+    "instagram": "https://www.instagram.com/ehcaning/",
+    "twitter": "https://twitter.com/ehcaning",
+    "cafebazaar": "https://cafebazaar.ir/developer/ehsan-seyedi/?l=fa"
+  },
+  "getInTouchBar": {
+    "title": "Contact With Me",
+    "data": [
+      {
+        "icon": "ti ti-email",
+        "title": "Email",
+        "link": "ehcan@icloud.com",
+        "url": "mailto:ehcan@icloud.com"
+      },
+      {
+        "icon": "ti ti-mobile",
+        "title": "Phone",
+        "link": "+98 936 9700 414",
+        "url": "tel:+989369700414"
+      },
+      {
+        "icon": "fab fa-telegram",
+        "title": "Telegram",
+        "link": "@Ehcaning",
+        "url": "https://t.me/Ehcaning"
+      },
+      {
+        "icon": "ti ti-instagram",
+        "title": "Instagram",
+        "link": "@Ehcaning",
+        "url": "https://www.instagram.com/ehcaning/"
+      }
+    ]
+  },
+  "jobInfo": {
+    "titles": ["Web Developer", "Mobile Developer", "UI Designer"],
+    "shortDescription": "Born September 1995 in Mashhad, Iran. I received my Bachelor of IT from <a href=\"http://sadjad.ac.ir\" target=\"_blank\">Sajid Industrial University</a> in Mashhad. My specialty is website designing, web applications, and mobile applications developing. I also specialize in C++.",
+    "expertise": {
+      "html": {
+        "name": "HTML",
+        "level": "Advanced",
+        "extra": ["HTML5"],
+        "certificateString": "Certificate",
+        "certificateLink": "https://www.sololearn.com/Certificate/1014-736982/pdf/"
+      },
+      "css": {
+        "name": "CSS",
+        "level": "Advanced",
+        "extra": ["CSS3", "Bootstrap", "Bulma"],
+        "certificateString": "Certificate",
+        "certificateLink": "https://www.sololearn.com/Certificate/1023-736982/pdf/"
+      },
+      "js": {
+        "name": "JavaScript",
+        "level": "Advanced",
+        "extra": ["JS", "jQuery", "AJAX"],
+        "certificateString": "Certificate",
+        "certificateLink": "https://www.sololearn.com/Certificate/1024-736982/pdf/"
+      },
+      "jQuery": {
+        "name": "jQuery",
+        "level": "پیشرفته",
+        "extra": ["v3"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1082-736982/pdf/"
+      },
+      "php": {
+        "name": "php",
+        "level": "Advanced",
+        "extra": ["MVC", "API", "RESTful API","Scraping"],
+        "certificateString": "Certificate",
+        "certificateLink": "https://www.sololearn.com/Certificate/1059-736982/pdf/"
+      },
+      "SQL": {
+        "name": "SQL",
+        "level": "Advanced",
+        "extra": ["PDO"],
+        "certificateString": "Certificate",
+        "certificateLink": "https://www.sololearn.com/Certificate/1060-736982/pdf/"
+      },
+      "C": {
+        "name": "C++",
+        "level": "Advanced",
+        "extra": ["Object Oriented"],
+        "certificateString": "Certificate",
+        "certificateLink": "https://www.sololearn.com/Certificate/1051-736982/pdf/"
+      },
+      "nodejs": {
+        "name": "NodeJS",
+        "level": "Intermediate",
+        "extra": ["RESTful API", "DB", "MongoDB", "Express"],
+        "certificateString": "",
+        "certificateLink": ""
+      }
+    }
+  },
+  "portfolioTags": [
+    {
+      "tag": "medical",
+      "value": "Medical"
+    },
+    {
+      "tag": "management",
+      "value": "Management"
+    },
+    {
+      "tag": "blog",
+      "value": "Blog"
+    },
+    {
+      "tag": "booking",
+      "value": "Booking"
+    },
+    {
+      "tag": "multilang",
+      "value": "Multi Language"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Clinic Management & Appointment Booking",
+      "client": "Dr. M.Mashreghi Moghaddam",
+      "url": "http://mmashreghi.ir/",
+      "imageUrl": "../assets/images/portfolio/mmashreghi.jpg",
+      "date": "2018 Summer",
+      "tools": ["HTML5", "CSS3", "php", "JavaScript", "SQL"],
+      "part": "Back+Front-End Developer",
+      "tags": [
+        {
+          "tag": "medical",
+          "value": "Medical"
+        },
+        {
+          "tag": "management",
+          "value": "Management"
+        },
+        {
+          "tag": "blog",
+          "value": "Blog"
+        },
+        {
+          "tag": "booking",
+          "value": "Booking"
+        }
+      ]
+    },
+    {
+      "name": "IRAN Health Tourism Management System",
+      "client": "IRAN Health Tourism Management System",
+      "url": "http://ihtms.com/",
+      "imageUrl": "../assets/images/portfolio/ihtms.jpg",
+      "date": "2018 Summer",
+      "tools": ["HTML5", "CSS3", "php", "JavaScript", "SQL"],
+      "part": "Front-End Developer",
+      "tags": [
+        {
+          "tag": "medical",
+          "value": "Medical"
+        },
+        {
+          "tag": "management",
+          "value": "Management"
+        },
+        {
+          "tag": "blog",
+          "value": "Blog"
+        },
+        {
+          "tag": "booking",
+          "value": "Booking"
+        },
+        {
+          "tag": "multilang",
+          "value": "Multi Language"
+        }
+      ]
+    }
+  ],
+  "whatIDo": {
+    "title": "More About Me",
+    "otherExpertise": {
+      "title": "Other Expertise",
+      "data": [
+        {
+          "title": "Softwares",
+          "url": "",
+          "urlTitle": "",
+          "list": [
+            "Microsoft Office",
+            "Apple iWork",
+            "Adobe Photoshop",
+            "Wordpress",
+            "Microsoft Windows",
+            "Apple MacOS",
+            "Linux Based OSs",
+            "Git"
+          ]
+        },
+        {
+          "title": "Languages",
+          "url": "",
+          "urlTitle": "",
+          "list": ["English", "Persian", "Turkish"]
+        },
+        {
+          "title": "Other",
+          "url": "https://www.worldcubeassociation.org/persons/2011SEYE01",
+          "urlTitle": "WCA",
+          "list": ["Rubik's Cube"]
+        }
+      ]
+    },
+    "occupations": {
+      "title": "Current Occupations",
+      "data": [
+        {
+          "title": "Diaco Company",
+          "position": "Full Stack Web Developer",
+          "url": "http://diacoipj.com",
+          "urlTitle": "diacoipj.com",
+          "description": "Since November 2018",
+          "category": ["RESTful API w/ php and NodeJS", "Admin Panels", "Full Stack Web Develop"]
+        },
+        {
+          "title": "Persian Theme Forest",
+          "position": "Founder",
+          "url": "http://persianthemeforest.ir/",
+          "urlTitle": "persianthemeforest.ir",
+          "description": "Theme Forest Products Store For Iranians",
+          "category": ["Template", "Store"]
+        },
+        {
+          "title": "MediWeb Group",
+          "position": "Cofounder",
+          "url": "http://mediweb.ir/",
+          "urlTitle": "mediweb.ir",
+          "description": "",
+          "category": ["Medical", "Website Design", "WebApp"]
+        }
+      ]
+    },
+    "FormerOccupations": {
+      "title": "Former Occupations",
+      "data": [
+        {
+          "title": "CubeDev Group",
+          "position": "UI/UX Designer",
+          "url": "http://cube-dev.ir/",
+          "urlTitle": "cube-dev.ir",
+          "description": "Till 2016 Summer",
+          "category": ["Store", "Booking", "Website", "Android App"]
+        },
+        {
+          "title": "Apple Store",
+          "position": "Genius Bar (Software)",
+          "url": "",
+          "urlTitle": "",
+          "description": "May - September 2013",
+          "category": ["iPhone", "MacBook", "iOS", "MacOS"]
+        }
+      ]
+    }
+  }
+}

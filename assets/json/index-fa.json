@@ -1,0 +1,25 @@
+{
+  "mainItems": [
+    {
+      "title": "تم فارِست فارسی",
+      "subTitle": "فروشگاه محصولاتِ Theme Forest",
+      "imageUrl": "assets/images/index/ptf.jpg",
+      "url": "http://persianthemeforest.ir/",
+      "width": "full"
+    },
+    {
+      "title": "رزومه‌ی من",
+      "subTitle": "مهارت‌ها، تخصص‌ها، سوابق کاری و نمونه کارها",
+      "imageUrl": "assets/images/index/resume.jpg",
+      "url": "resume",
+      "width": "full"
+    },
+    {
+      "title": "مکعب روبیک",
+      "subTitle": "آموزش، سوابق و کلاس‌های آموزشی روبیک",
+      "imageUrl": "assets/images/index/rubik.jpg",
+      "url": "http://rubik.ehcan.ir/",
+      "width": "full"
+    }
+  ]
+}

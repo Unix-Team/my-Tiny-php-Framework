@@ -1,0 +1,25 @@
+{
+  "mainItems": [
+    {
+      "title": "Persian Theme Forest",
+      "subTitle": "Theme Forest Products Store For Iranians",
+      "imageUrl": "assets/images/index/ptf.jpg",
+      "url": "http://persianthemeforest.ir/",
+      "width": "full"
+    },
+    {
+      "title": "My Resume",
+      "subTitle": "My Expertise, Skills and Portfolio",
+      "imageUrl": "assets/images/index/resume.jpg",
+      "url": "resume",
+      "width": "full"
+    },
+    {
+      "title": "Rubik's Cube",
+      "subTitle": "Tutorials, Records and My Classes",
+      "imageUrl": "assets/images/index/rubik.jpg",
+      "url": "http://rubik.ehcan.ir/",
+      "width": "full"
+    }
+  ]
+}

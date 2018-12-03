@@ -1,0 +1,273 @@
+{
+  "personalInfo": {
+    "Name": "احسان سیدی",
+    "firstName": "احسان",
+    "lastName": "سیدی",
+    "location": "مشهد، ایران",
+    "age": "23"
+  },
+  "accounts": {
+    "email": "ehcan@icloud.com",
+    "instagram": "https://www.instagram.com/ehcaning/",
+    "twitter": "https://twitter.com/ehcaning",
+    "cafebazaar": "https://cafebazaar.ir/developer/ehsan-seyedi/?l=fa"
+  },
+  "getInTouchBar": {
+    "title": "ارتباط با من",
+    "data": [
+      {
+        "icon": "ti ti-email",
+        "title": "ایمیل",
+        "link": "ehcan@icloud.com",
+        "url": "mailto:ehcan@icloud.com"
+      },
+      {
+        "icon": "ti ti-mobile",
+        "title": "شماره تماس",
+        "link": "+98 936 9700 414",
+        "url": "tel:+989369700414"
+      },
+      {
+        "icon": "fab fa-telegram",
+        "title": "تلگرام",
+        "link": "@Ehcaning",
+        "url": "https://t.me/Ehcaning"
+      },
+      {
+        "icon": "ti ti-instagram",
+        "title": "اینستاگرام",
+        "link": "@Ehcaning",
+        "url": "https://www.instagram.com/ehcaning/"
+      }
+    ]
+  },
+  "jobInfo": {
+    "titles": ["برنامه‌نویس وب", "برنامه‌نویس موبایل", "طراح رابط کاربری"],
+    "shortDescription": "متولد شهریور 1374 در مشهد هستم. مدرک کارشناسی فناوری اطلاعات‌ام رو از <a href=\"http://sadjad.ac.ir\" target=\"_blank\">دانشگاه صنعتی سجاد مشهد</a> گرفتم. تخصص‌ام در زمینه طراحی وب‌سایت، وب‌اپلیکیشن و نرم‌افزار‌های موبایل هست. همچنین در زبان ++C هم تخصص دارم.",
+    "expertise": {
+      "html": {
+        "name": "HTML",
+        "level": "پیشرفته",
+        "extra": ["HTML5"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1014-736982/pdf/"
+      },
+      "css": {
+        "name": "CSS",
+        "level": "پیشرفته",
+        "extra": ["CSS3", "Bootstrap", "Bulma"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1023-736982/pdf/"
+      },
+      "js": {
+        "name": "JavaScript",
+        "level": "پیشرفته",
+        "extra": ["JS", "jQuery", "AJAX"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1024-736982/pdf/"
+      },
+      "jQuery": {
+        "name": "jQuery",
+        "level": "پیشرفته",
+        "extra": ["v3"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1082-736982/pdf/"
+      },
+      "php": {
+        "name": "php",
+        "level": "پیشرفته",
+        "extra": ["MVC", "API", "RESTful API", "Scraping"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1059-736982/pdf/"
+      },
+      "SQL": {
+        "name": "SQL",
+        "level": "پیشرفته",
+        "extra": ["PDO"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1060-736982/pdf/"
+      },
+      "C": {
+        "name": "++C",
+        "level": "پیشرفته",
+        "extra": ["Object Oriented"],
+        "certificateString": "گواهی‌نامه",
+        "certificateLink": "https://www.sololearn.com/Certificate/1051-736982/pdf/"
+      },
+      "nodejs": {
+        "name": "NodeJS",
+        "level": "متوسط",
+        "extra": ["RESTful API","DB","MongoDB","Express"],
+        "certificateString": "",
+        "certificateLink": ""
+      }
+    }
+  },
+  "portfolioTags": [
+    {
+      "tag": "medical",
+      "value": "پزشکی"
+    },
+    {
+      "tag": "management",
+      "value": "مدیریت"
+    },
+    {
+      "tag": "blog",
+      "value": "وبلاگ"
+    },
+    {
+      "tag": "booking",
+      "value": "رزرو"
+    },
+    {
+      "tag": "multilang",
+      "value": "چند زبانه"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "سامانه مدیریت مطب و نوبت‌دهی",
+      "client": "دکتر محمدرضا مشرقی مقدم",
+      "url": "http://mmashreghi.ir/",
+      "imageUrl": "../assets/images/portfolio/mmashreghi.jpg",
+      "date": "تابستان 1397",
+      "tools": ["HTML5", "CSS3", "php", "JavaScript", "SQL"],
+      "part": "برنامه‌نویس سمت کلاینت و سرور",
+      "tags": [
+        {
+          "tag": "medical",
+          "value": "پزشکی"
+        },
+        {
+          "tag": "management",
+          "value": "مدیریت"
+        },
+        {
+          "tag": "blog",
+          "value": "وبلاگ"
+        },
+        {
+          "tag": "booking",
+          "value": "رزرو"
+        }
+      ]
+    },
+    {
+      "name": "گردشگری سلامت در ایران",
+      "client": "IRAN Health Tourism Management System",
+      "url": "http://ihtms.com/",
+      "imageUrl": "../assets/images/portfolio/ihtms.jpg",
+      "date": "تابستان 1397",
+      "tools": ["HTML5", "CSS3", "php", "JavaScript", "SQL"],
+      "part": "برنامه‌نویس سمت کلاینت",
+      "tags": [
+        {
+          "tag": "medical",
+          "value": "پزشکی"
+        },
+        {
+          "tag": "management",
+          "value": "مدیریت"
+        },
+        {
+          "tag": "blog",
+          "value": "وبلاگ"
+        },
+        {
+          "tag": "booking",
+          "value": "رزرو"
+        },
+        {
+          "tag": "multilang",
+          "value": "چند زبانه"
+        }
+      ]
+    }
+  ],
+  "whatIDo": {
+    "title": "بیشتر درباره‌ی من",
+    "otherExpertise": {
+      "title": "سایر مهارت‌ها",
+      "data": [
+        {
+          "title": "نرم‌افزار‌ها",
+          "url": "",
+          "urlTitle": "",
+          "list": [
+            "Microsoft Office",
+            "Apple iWork",
+            "Adobe Photoshop",
+            "Wordpress",
+            "Microsoft Windows",
+            "Apple MacOS",
+            "Linux Based OSs",
+            "Git"
+          ]
+        },
+        {
+          "title": "زبان",
+          "url": "",
+          "urlTitle": "",
+          "list": ["English", "فارسی", "Turkish"]
+        },
+        {
+          "title": "سایر",
+          "url": "https://www.worldcubeassociation.org/persons/2011SEYE01",
+          "urlTitle": "WCA",
+          "list": ["مکعب روبیک"]
+        }
+      ]
+    },
+    "occupations": {
+      "title": "فعالیت‌های کاریِ فعلی",
+      "data": [
+        {
+          "title": "شرکت ایده پردازان جوان",
+          "position": "برنامه نویس Full Stack",
+          "url": "http://diacoipj.com",
+          "urlTitle": "diacoipj.com",
+          "description": "از آبان 1397",
+          "category": ["RESTful API w/ php and NodeJS", "ساخت پنل تولید محتوا", "پیاده سازی وب‌سایت"]
+        },
+        {
+          "title": "تم فارِست فارسی",
+          "position": "موسس",
+          "url": "http://persianthemeforest.ir/",
+          "urlTitle": "persianthemeforest.ir",
+          "description": "فروشگاه محصولاتِ Theme Forest",
+          "category": ["قالب", "فروشگاه", "قالب آماده"]
+        },
+        {
+          "title": "گروه برنامه‌نویسی MediWeb",
+          "position": "هم-موسس",
+          "url": "http://mediweb.ir/",
+          "urlTitle": "mediweb.ir",
+          "description": "",
+          "category": ["پزشکی", "طراحی وب‌سایت", "وب‌اپلیکیشن"]
+        }
+      ]
+    },
+    "FormerOccupations": {
+      "title": "فعالیت‌های کاریِ گذشته",
+      "data": [
+        {
+          "title": "گروه برنامه‌نویسی CubeDev",
+          "position": "طراح UI/UX",
+          "url": "http://cube-dev.ir/",
+          "urlTitle": "cube-dev.ir",
+          "description": "تا تابستان 1395",
+          "category": ["فروشگاه", "رزرو", "سایت", "اپلیکیشن اندروید"]
+        },
+        {
+          "title": "اپل استور",
+          "position": "بخش تعمیرات نرم‌افزاری",
+          "url": "",
+          "urlTitle": "",
+          "description": "خرداد تا مهر 1392",
+          "category": ["iPhone", "MacBook", "iOS", "MacOS"]
+        }
+      ]
+    }
+  }
+}
