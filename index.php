@@ -94,6 +94,10 @@ route('POST','/api/insertExample',function(){
 // Minify CSS & JS filse in given path
 // For sub-directories, you can see this example down here
 // any files like style.css will minify and save to style.min.css
+
+// Open this urls, you can remove or comment these lines before release
+// /utils/minify/css
+// /utils/minify/js
 route('GET','/utils/minify/:format',function($args){
 	$dirs['css'] = [
 		'assets/css',
